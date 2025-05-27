@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { Text, View } from "react-native";
 
@@ -14,7 +15,8 @@ export default function Index() {
         {count}
       </Text>
       <View><Text>new name here</Text></View>
-      <Text className=" text-primary bg-orange-400">chnagibnf those text</Text>
+     
+    
     </View>
   );
 }
